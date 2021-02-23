@@ -113,7 +113,7 @@ public class ClassLoader_Test {
 
 ## &#127800; 4. 双亲委派机制 &#127800;
 
-![委派机制的流程图](https://static01.imgkr.com/temp/2dc787593c6f4b96a0a4b04283ca0456.png)
+![委派机制的流程图](http://lc-dDwI9S44.cn-n1.lcfile.com/a331a646859ff9464b37.png/%E5%8F%8C%E4%BA%B2%E5%A7%94%E6%B4%BE%E6%9C%BA%E5%88%B6.png)
 
 ### &#127800; 4.1 双亲委派机制的作用
 
@@ -273,6 +273,7 @@ public class Native_Test {
   - 但是**实例变量**存在**堆内存**中，和**方法区**无关。即 **static、final、Class、常量池**
 
 ![MethodsArea](https://static01.imgkr.com/temp/626c43a97fe749ae90df5b3211a233b8.png)
+
 <details>
 <summary>&#127808; MethodsArea_Test &#127808;</summary>
 
